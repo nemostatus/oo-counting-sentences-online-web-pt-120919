@@ -17,7 +17,6 @@ self.end_with?("?")
   end
 
   def count_sentences
-array = self.split
-array.length
+if
   end
 end
