@@ -17,6 +17,6 @@ self.end_with?("?")
   end
 
   def count_sentences
-self.squeeze
+self.squeeze('.')
   end
 end
